@@ -1,0 +1,22 @@
+.body{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+  }
+.heading h3 {
+    display: inline;
+    font-family: 'Rampart One', cursive;
+    font-size: 30px;
+  }
+  .heading button{
+    float: right;
+    border: 5px soild rgb(255, 255, 255);
+    font-family: 'Indie Flower', cursive;
+  }
+  .big_image{
+    width: 100%;
+  }
+  #start, #status{
+    font-size: 23px;
+    font-family: 'Indie Flower', cursive;
+  
+  }
